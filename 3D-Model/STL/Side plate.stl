@@ -1,4 +1,4 @@
-solid CM1 - Side plate
+solid Side plate
 facet normal 1.0254423572901449e-16 1.0 5.639932965095795e-15
   outer loop
     vertex 0.0 110.0 2.0
@@ -3331,4 +3331,4 @@ facet normal -0.0 1.0 -0.0
     vertex 99.5 10.49999999999999 1.9999999999999947
   endloop
 endfacet
-endsolid CM1 - Side plate
+endsolid Side plate
